@@ -1,4 +1,8 @@
-# error_states
+## Error states screen's
+
+| ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/40641142/203145564-3a9d3113-bd54-4ce5-8c9b-513440085c60.gif) |
+| :------------: |
+| **Error states screen's** with custom styles |
 
 A new Flutter project.
 
